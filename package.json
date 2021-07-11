@@ -1,0 +1,15 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@originjs/vite-plugin-commonjs": "^1.0.0-beta6",
+    "vite": "^2.4.0"
+  },
+  "dependencies": {
+    "@shopify/app-bridge": "^2.0.3"
+  }
+}
